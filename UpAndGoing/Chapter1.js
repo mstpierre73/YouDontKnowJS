@@ -2,10 +2,15 @@
 
 const PHONE_SELECTION = [99.99, 79.38, 121.85, 89.50, 110.00, 133.45, 142.77];
 let phoneCost = 0;
+
+
 const ACCESSORIES_COST = 19.99;
+
 const TAX_RATE = 0.15;
 let bankAccount = 1000.00;
+
 let totalPurchase = 0;
+
 let totalWithTax = 0;
 let totalCost = 0;
 
